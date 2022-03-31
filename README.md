@@ -32,3 +32,9 @@ DOI = {10.3390/ani12070886}
 
 ```
 
+### Usage
+1. Please unzip train_1.zip, train_2.zip, and test.zip. 
+2. Combine train_1 (Score_1 and Score_2) and train_2 (Score 3 and Score 4) as the training dataset.
+3. Train the model with the labeled training dataset and unlabeled test dataset
+
+
