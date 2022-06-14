@@ -37,4 +37,22 @@ DOI = {10.3390/ani12070886}
 2. Combine train_1 (Score_1 and Score_2) and train_2 (Score 3 and Score 4) as the training dataset.
 3. Train the model with the labeled training dataset and unlabeled test dataset
 
+### Evluation
+To avoid tuning the model based on the test dataset, we also provide an application to automatically evaluate the performance of your prediction.
+
+1. You need to generate your prediction as a CSV file: [image_name, predicted labels]. We also uploaded a sample_results.csv for your reference.
+2. In stall Cow_teat_classfication_accuracy.exe. You may need to install Matlab R2021b (9.11) MCR [here](https://www.mathworks.com/products/compiler/matlab-runtime.html)
+  
+
+4. Run Cow_teat_classfication_accuracy software to get your prediction accuracy
+
+   I) Click on 'Open CSV File' 
+   
+   II) Click on 'Calculate Accuracy'
+   
+   III) You will see the accuracy in the text area
+
+
+
+
 
