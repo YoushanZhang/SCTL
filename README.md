@@ -45,7 +45,7 @@ To avoid tuning the model based on the test dataset, we also provide an applicat
 
 
 <p align="center">
-  <img src="./assts/cow_app.png" width="50%"> 
+  <img src="./assts/App.png" width="50%"> 
 </p>
 <p align="center">Cow Teat Classfication Accuracy software</p>
 
