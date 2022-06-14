@@ -58,6 +58,7 @@ To avoid tuning the model based on the test dataset, we also provide an applicat
    III) You will see the accuracy in the text area
 
 
-
+![UFSKFE_GH060066 results](./assts/cow_prediction_video.gif)
+<p align="center">Sample evluation process using Cow_teat_classfication_accuracy software </p>
 
 
