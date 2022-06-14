@@ -42,7 +42,12 @@ To avoid tuning the model based on the test dataset, we also provide an applicat
 
 1. You need to generate your prediction as a CSV file: [image_name, predicted labels]. We also uploaded a sample_results.csv for your reference.
 2. In stall Cow_teat_classfication_accuracy.exe. You may need to install Matlab R2021b (9.11) MCR [here](https://www.mathworks.com/products/compiler/matlab-runtime.html)
-  
+
+
+<p align="center">
+  <img src="./assts/cow_app.png" width="50%"> 
+</p>
+<p align="center">Cow Teat Classfication Accuracy software</p>
 
 4. Run Cow_teat_classfication_accuracy software to get your prediction accuracy
 
