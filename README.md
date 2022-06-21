@@ -32,6 +32,12 @@ DOI = {10.3390/ani12070886}
 
 ```
 
+<p align="center">
+  <img src="./assts/res.png" width="50%"> 
+</p>
+<p align="center">SCTL Cow Teat Classfication Accuracy</p>
+
+
 ### Usage
 1. Please unzip train_1.zip, train_2.zip, and test.zip. 
 2. Combine train_1 (Score_1 and Score_2) and train_2 (Score 3 and Score 4) as the training dataset.
