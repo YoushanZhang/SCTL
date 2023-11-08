@@ -12,6 +12,9 @@ If you find it is helpful, please cite it as:
 Zhang, Youshan, Ian R. Porter, Matthias J. Wieland, and Parminder S. Basran. 2022. "Separable Confident Transductive Learning for Dairy Cows Teat-End Condition Classification" Animals 12, no. 7: 886. https://doi.org/10.3390/ani12070886.
 `
 
+`
+Zhang, Youshan, Parminder S. Basran, Ian R. Porter, and Matthias Wieland. "Dairy cows teat-end condition classification using separable transductive learning." In 61st National Mastitis Council (NMC) Annual Meeting, vol. 1. 2022.
+`
 
 Or in bibtex style:
 
@@ -29,6 +32,21 @@ URL = {https://www.mdpi.com/2076-2615/12/7/886},
 ISSN = {2076-2615},
 DOI = {10.3390/ani12070886}
 }
+
+```
+
+
+
+
+```
+
+@inproceedings{zhang2022dairy,
+  title={Dairy cows teat-end condition classification using separable transductive learning},
+  author={Zhang, Youshan and Basran, Parminder S and Porter, Ian R and Wieland, Matthias},
+  booktitle={61st National Mastitis Council (NMC) Annual Meeting, vol. 1.},
+  year={2022}
+}
+
 
 ```
 
